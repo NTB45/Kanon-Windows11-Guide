@@ -103,9 +103,13 @@ RLVM should be prefered 99% of the time
 Code snippet
 
 sudo apt update
+
 sudo apt upgrade
+
 sudo apt install flatpak
+
 flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+
 flatpak install flathub com.usebottles.bottles
 
 
