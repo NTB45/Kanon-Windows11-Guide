@@ -8,9 +8,11 @@ becuase no one else has done it and properly(this guide is definately not proper
 Hey All, KuudereEnthusiast here
 
 And your know what i hate the most
+
 An operating system whose strong points are compatibility, but fails at it
 
 After wanting to play kanon for like ages 
+
 I finally decided to download it and install all the patches, English translation, voice over and stuff
 
 English translation worked great
@@ -18,15 +20,19 @@ English translation worked great
 But the voice over, it didn't
 
 So naturally I got to work trying to fix it.
+
 After a few google searches and archived reddit posts later
 
 I found that Kanon has doesn't work with windows 11 and the voiceover's provided w11.exe that is working, doesn't have the voiceover. Ironic
 
 So
+
 Like a maniac
+
 I loaded up Ubuntu dual boot and tried to run the game on wine
 
 It worked
+
 well, looks like windows got beat by a translation layer.
 
 So now, like a wreckless manic, i ran the game from bottles installed in wsl in windows 11
@@ -44,6 +50,7 @@ i installed that from the repo.
 works perfectly
 
 So
+
 time for TLDR and commands
 
 # TLDR
