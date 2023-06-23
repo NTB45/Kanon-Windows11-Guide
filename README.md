@@ -145,9 +145,8 @@ The challenging part might come when you open Ubuntu in File Explorer. It's prob
 
 Go to Ubuntu in File Explorer.
 Navigate to
-
   Ubuntu\home\user\.var\app\com.usebottles.bottles\data\bottles\bottles\bottlename\drive_c\Program Files
-    Paste the Kanon folder there. (Bottles has this Flatpak containerization limitation.)
+Paste the Kanon folder there. (Bottles has this Flatpak containerization limitation.)
 
 Add a shortcut
 
