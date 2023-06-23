@@ -91,6 +91,10 @@ then run rlvm by typing
 
         rlvm
 
+If it runs and opens a file picker, then close it and paste your files roughly in Ubuntu/home/username/Kanon
+
+then open rlvm again
+
 then pick your kanon files from there
 
 then boom
