@@ -49,32 +49,40 @@ time for TLDR and commands
 # TLDR
 
 ## here are the instructions on how to enable WSL in Windows 11 and install rlvm:
-
-    Open the Start menu and type "Windows features".
-    Click on "Turn Windows features on or off".
-    Check the "Windows Subsystem for Linux" checkbox and press the "OK" button.
-    Restart your computer.
+ Open the Start menu and type "Windows features".
+Click on "Turn Windows features on or off".
+Check the "Windows Subsystem for Linux" checkbox and press the "OK" button.
+Restart your computer.
 
 ## Installing Ubuntu
+
 Once WSL is enabled, you can install Ubuntu from the Microsoft Store.
+
 I recommend the ubuntu 22.xx LTS 
+
 but any distro should work if you know your stuff
+
 (i used ubuntu stable for this guide)
 
-then run ubuntu
-update it with 
-sudo apt update
+then run ubuntu, update it with 
+
+        sudo apt update
+
 then
-sudo apt upgrade
+
+        sudo apt upgrade
+
 
 ## then install the ubuntu universe repo 
-sudo add-apt-repository universe
+        sudo add-apt-repository universe
 
 then install rlvm
-sudo apt install rlvm
+
+        sudo apt install rlvm
 
 then run rlvm by typing 
-rlvm
+
+        rlvm
 
 then pick your kanon files from there
 
@@ -98,48 +106,48 @@ RLVM should be prefered 99% of the time
 
 ## Instructions
 
-    Enable WSL on Windows 11.
-    Install Ubuntu 22.xx LTS on WSL.
-    Open a terminal in Ubuntu and run the following commands:
+Enable WSL on Windows 11.
+Install Ubuntu 22.xx LTS on WSL.
+Open a terminal in Ubuntu and run the following commands:
 
-Code snippet
+        sudo apt update
 
-sudo apt update
+        sudo apt upgrade
 
-sudo apt upgrade
+        sudo apt install flatpak
 
-sudo apt install flatpak
+        flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
 
-flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
-
-flatpak install flathub com.usebottles.bottles
+        flatpak install flathub com.usebottles.bottles
 
 
-    Once Flatpak and Bottles are installed, restart the pc,( or the explorer.exe if you feel adventurous )
-    and open bottles(ubuntu from the start menu)
+Once Flatpak and Bottles are installed, restart the pc,( or the explorer.exe if you feel adventurous )
+and open bottles(ubuntu from the start menu)
     
-    Let the bottles setup do its job
-    then
-    Make a bottle
+Let the bottles setup do its job
+
+then
+
+Make a bottle
 
 The challenging part might come when you open Ubuntu in File Explorer. It's probably docked on the left tree of Explorer.
 
-    Go to Ubuntu in File Explorer.
-    Navigate to Ubuntu\home\user\.var\app\com.usebottles.bottles\data\bottles\bottles\bottlename\drive_c\Program Files
+Go to Ubuntu in File Explorer.
+Navigate to         Ubuntu\home\user\.var\app\com.usebottles.bottles\data\bottles\bottles\bottlename\drive_c\Program Files
     Paste the Kanon folder there. (Bottles has this Flatpak containerization limitation.)
 
 Add a shortcut
 
-    Go to Bottles and click Add shortcut.
-    Go the long way to the Kanon folder in Linux again.
-    Add the reallive.exe file.
-    Cross your fingers and run that .exe from the shortcut menu.
+Go to Bottles and click Add shortcut.
+Go the long way to the Kanon folder in Linux again.
+Add the reallive.exe file.
+Cross your fingers and run that .exe from the shortcut menu.
 
 Congratulations!
 
 If it runs with audio, you're good to go!
-    Click the Add shortcut button and select the reallive.exe file from the Kanon installation directory.
-    Run the shortcut.
+Click the Add shortcut button and select the reallive.exe file from the Kanon installation directory.
+Run the shortcut.
 
 Troubleshooting
 
