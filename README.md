@@ -3,6 +3,8 @@ A guide on how to run kanon on windows 11 with the voicepatch
 
 ## Why am i doing this
 
+becuase no one else has done it and properly(this guide is definately not proper) documented it
+
 Hey All, KuudereEnthusiast here
 
 And your know what i hate the most
