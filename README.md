@@ -113,7 +113,7 @@ I would only recommend to follow that when in serious issues
 RLVM should be prefered 99% of the time
 
 # How to Play Kanon on Windows 11 with Wine and Bottles
-## Warning, AI assisted stub below here, not 100% accurate, will only recommend people that know their shit try it.
+## Warning, AI "assisted" (i checked it only once for mistakes) stub below here, not 100% accurate, will only recommend people that know their shit try it.
 
 ## Instructions
 
