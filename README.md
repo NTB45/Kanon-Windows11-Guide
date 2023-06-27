@@ -65,7 +65,7 @@ Restart your computer.
 
 ## Installing Ubuntu
 
-Once WSL is enabled, you can install Ubuntu from the Microsoft Store.
+Once WSL is enabled, you can install Linux distros from the Microsoft Store.
 
 I recommend Debian if all you are going to use WSL for is RLVM because it is the easiest to configure.
 
