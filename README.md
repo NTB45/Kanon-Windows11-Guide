@@ -122,6 +122,14 @@ I'll put the rough instructions i made for installing it from wine and bottles i
 I would only recommend to follow that when in serious issues
 RLVM should be prefered 99.99% of the time
 
+## Contact me
+If there comes any issues (or if you want to throw rotten eggs and tomatoes at me for this shitty guide) contact me on discord at kuudereenthusiast 
+
+Now I ain't no linux super user, but if there is a small issue or mistake in the guide feel free to message me.
+Setting an issue in github might get my attention,but discord message will be much faster (If any issue is widespread i might set an FAQ page here)
+
+If you feel like improving the guide feel free to fork it or make a pull request, just give me a shoutout in the end
+
 # How to Play Kanon on Windows 11 with Wine and Bottles
 ## Warning, AI "assisted" (i checked it only once for mistakes) stub below here, not 100% accurate, will only recommend people that know their shit try it.
 ### This section of the guide was written for Ubuntu.
