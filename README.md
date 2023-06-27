@@ -42,6 +42,8 @@ it worked
 
 but it was laggy as FqUaCK.
 
+then after hours of hitting my head against the wall,
+
 i remembered that rlvm exists for real live visual novels
 
 i installed that from the repo.
@@ -65,23 +67,21 @@ Restart your computer.
 
 Once WSL is enabled, you can install Ubuntu from the Microsoft Store.
 
-I recommend the ubuntu 22.xx LTS 
+I recommend Debian if all you are going to use WSL for is RLVM because it is the easiest to configure.
 
 but any distro should work if you know your stuff
 
-(i used ubuntu stable for this guide)
+(i used debian for this guide)
 
-then run ubuntu, update it with 
+If on Ubuntu then install the ubuntu universe repo for rlvm package.
+
+then run Debian, update it with 
 
         sudo apt update
 
 then
 
         sudo apt upgrade
-
-
-## then install the ubuntu universe repo 
-        sudo add-apt-repository universe
 
 then install rlvm
 
@@ -91,7 +91,7 @@ then run rlvm by typing
 
         rlvm
 
-If it runs and opens a file picker, then close it and paste your files roughly in Ubuntu/home/username/Kanon
+If it runs and opens a file picker, then close it and paste your files roughly in debain/home/YOURUsername/Kanon for easy access.
 
 then open rlvm again
 
@@ -101,6 +101,16 @@ then boom
 
 thats kanon for ya
 
+### Issues with this method
+RLVM is pretty good, but it kinda feels like a slight downgrade compared to the original engine sometimes.
+
+Like you can't skip audio or increase text speed
+
+Window Scaling is pretty weird and it remains stuck to its 640x480p windowed resolution
+
+Janky fix to this issue it to use windows magnifier at 2x with the game to make it look big in 1080p displays
+
+No ai upscaling (waifu2x and fsr) on the game with magpie or gamescope , if you want it, use linux or windows (with magnifier that game doesnt look that pixelated compared to running the original game from bottles)
 
 
 And now if for some reason it doesnt work
@@ -110,15 +120,16 @@ then install bottles and run the game exe through it
 I'll put the rough instructions i made for installing it from wine and bottles in wsl, but its incomplete and i lazily made it go through an ai chatbot to do make it human readable
 
 I would only recommend to follow that when in serious issues
-RLVM should be prefered 99% of the time
+RLVM should be prefered 99.99% of the time
 
 # How to Play Kanon on Windows 11 with Wine and Bottles
 ## Warning, AI "assisted" (i checked it only once for mistakes) stub below here, not 100% accurate, will only recommend people that know their shit try it.
+### This section of the guide was written for Ubuntu.
 
 ## Instructions
 
 Enable WSL on Windows 11.
-Install Ubuntu 22.xx LTS on WSL.
+Install Ubuntu on WSL.
 Open a terminal in Ubuntu and run the following commands:
 
         sudo apt update
@@ -139,16 +150,16 @@ Let the bottles setup do its job
 
 then
 
-Make a bottle
+Make a bottle, i named it confusion to avoid any confusion (ha).
 
 The challenging part might come when you open Ubuntu in File Explorer. It's probably docked on the left tree of Explorer.
 
 Go to Ubuntu in File Explorer.
 Navigate to
   
-        Ubuntu\home\user\.var\app\com.usebottles.bottles\data\bottles\bottles\bottlename\drive_c\Program Files
+        Ubuntu\home\user\.var\app\com.usebottles.bottles\data\bottles\bottles\BOTTLENAME\drive_c\Program Files
 
-Paste the Kanon folder there. (Bottles has this Flatpak containerization limitation.)
+Paste the Kanon folder there. (Bottles has Flatpak containerization limitation so you cant run anything properly if its outside its flatpak directory.)
 
 Add a shortcut
 
@@ -167,6 +178,7 @@ Troubleshooting
 
     If you get a DirectSound with a bunch of bogus text error, restart your computer.
     If the game audio gets choppier over time, restart your computer.
+    Audio is pretty choppy compared to rlvm or original game, if you want to play on the original engine , you gotta cope with this issue and install older versions of windows(like 10) to play it.
 
 Conclusion
 
