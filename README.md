@@ -1,5 +1,7 @@
-# Kanon-Windows11-Guide
-A guide on how to run kanon on windows 11 with the voicepatch
+# Kanon-Windows11-GuideA guide on how to run kanon on windows 11 with the voicepatch
+
+## What is this guide
+for people that know their stuff, this is basically using WSL to install RLVM and pasting the game's files there then running it from RLVM on WSL
 
 ## Why am i doing this
 
@@ -34,7 +36,7 @@ I loaded up Ubuntu dual boot and tried to run the game on wine
 It worked
 
 well, looks like windows got beat by a translation layer.
-
+ 
 So now, like a wreckless manic, i ran the game from bottles installed in wsl in windows 11
 
 it worked
@@ -71,7 +73,7 @@ I recommend Debian if all you are going to use WSL for is RLVM because it is the
 
 but any distro should work if you know your stuff
 
-(i used debian for this guide)
+(i used debian 11 and 12 for this guide)
 
 If on Ubuntu then install the ubuntu universe repo for rlvm package.
 
@@ -158,7 +160,7 @@ Let the bottles setup do its job
 
 then
 
-Make a bottle, i named it confusion to avoid any confusion (ha).
+Make a bottle, (i named it confusion to avoid any confusion (ha)).
 
 The challenging part might come when you open Ubuntu in File Explorer. It's probably docked on the left tree of Explorer.
 
@@ -193,4 +195,6 @@ Conclusion
 This guide has shown you how to install Bottles from Flatpak and play Kanon on Windows 11. With these tools, you can play Kanon and other Windows applications on your Windows 11 system.
 
 I hope you enjoy playing Kanon!
-english is my 4th language, shout at my english teacher not me
+
+
+english is my 4th language, throw rotten eggs at my english teacher not me
