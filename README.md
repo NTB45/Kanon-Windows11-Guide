@@ -193,3 +193,4 @@ Conclusion
 This guide has shown you how to install Bottles from Flatpak and play Kanon on Windows 11. With these tools, you can play Kanon and other Windows applications on your Windows 11 system.
 
 I hope you enjoy playing Kanon!
+english is my 4th language, shout at my english teacher not me
