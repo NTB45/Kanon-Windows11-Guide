@@ -75,7 +75,7 @@ I recommend Debian if all you are going to use WSL for is RLVM because it is the
 
 but any distro should work if you know your stuff
 
-(i used debian 11 and 12 for this guide)
+(i used debian for this guide, tested it on Ubuntu 22 LTS,23 Stable and Debian 11 and 12 on WSL for this guide )
 
 If on Ubuntu then install the ubuntu universe repo for rlvm package.
 
