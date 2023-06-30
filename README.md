@@ -9,6 +9,8 @@ for people that know their stuff, this is basically using WSL to install RLVM an
 
 becuase no one else has done it and properly(this guide is definately not proper) documented it
 
+###pls skip
+
 Hey All, KuudereEnthusiast here
 
 And your know what i hate the most
@@ -59,7 +61,7 @@ So
 
 time for TLDR and commands
 
-# TLDR
+# Steps
 
 ## here are the instructions on how to enable WSL in Windows 11 and install rlvm:
  Open the Start menu and type "Windows features".
