@@ -9,7 +9,7 @@ for people that know their stuff, this is basically using WSL to install RLVM an
 
 becuase no one else has done it and properly(this guide is definately not proper) documented it
 
-###pls skip
+## Obligatory Life History
 
 Hey All, KuudereEnthusiast here
 
@@ -59,7 +59,7 @@ works perfectly
 
 So
 
-time for TLDR and commands
+### Now's the time for TLDR and commands
 
 # Steps
 
