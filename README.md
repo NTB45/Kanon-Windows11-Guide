@@ -82,7 +82,7 @@ Click on "Turn Windows features on or off".
 Check the "Windows Subsystem for Linux" checkbox and press the "OK" button.
 Restart your computer.
 
-## Installing Ubuntu
+## Installing WSL2 Linux
 
 Once WSL is enabled, you can install Linux distros from the Microsoft Store.
 
