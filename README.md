@@ -21,7 +21,7 @@ well, if you are running vmware figure something out yourself,
 
 run linux on vm or something, you probably know more than me about VMs.
 
-VMware and hyperV doesnt mix together very well.
+VMware and ow hyperV doesnt mix together very well.
 
 ## Obligatory Life History
 
@@ -129,7 +129,7 @@ Window Scaling is pretty weird and it remains stuck to its 640x480p windowed res
 
 Janky fix to this issue it to use windows magnifier at 2x with the game to make it look big in 1080p displays
 
-No ai upscaling (waifu2x and fsr) on the game with magpie or gamescope , if you want it, use linux or windows (with magnifier that game doesnt look that pixelated compared to running the original game from bottles)
+No ai upscaling (waifu2x and fsr) on the game with magpie or gamescope , if you want it, use linux or windows 10 or below (with magnifier that game doesnt look that pixelated compared to running the original game from bottles)
 
 
 And now if for some reason it doesnt work
