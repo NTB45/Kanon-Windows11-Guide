@@ -73,8 +73,7 @@ works perfectly
 
 So
 
-### Now's the time for TLDR and commands
-
+### Now's the time for 
 # Steps
 
 ## here are the instructions on how to enable WSL in Windows 11 and install rlvm:
