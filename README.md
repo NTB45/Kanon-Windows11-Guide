@@ -9,6 +9,20 @@ for people that know their stuff, this is basically using WSL to install RLVM an
 
 becuase no one else has done it and properly(this guide is definately not proper) documented it
 
+## Why have you put a guide on Github, it's for programming
+
+I dont wanted to deal with seo optimisations, and its not like i was going to earn money posting it there, this guide exists for the betterment of humanity and github is the most visible website i can post it to freely
+
+## Warning
+
+This guide needs Hyper-V and WSL2, if you are running VMware, 
+
+well, if you are running vmware figure something out yourself,
+
+run linux on vm or something, you probably know more than me about VMs.
+
+VMware and hyperV doesnt mix together very well.
+
 ## Obligatory Life History
 
 Hey All, KuudereEnthusiast here
