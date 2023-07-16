@@ -108,7 +108,7 @@ Restart your computer.
 
 Once WSL is enabled, you can install Linux distros from the Microsoft Store.
 
-I recommend Debian if all you are going to use WSL for is RLVM because it is the easiest to configure.
+I recommend Debian if all you are going to use WSL for is only RLVM because it is the easiest to configure.
 
 but any distro should work if you know your stuff
 
