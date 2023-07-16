@@ -1,6 +1,6 @@
 # Kanon-Windows11-Guide
 
-A guide on how to run kanon on windows 11 with the voicepatch
+A guide on how to run kanon on windows 11 with the Ultimate Voicepatch
 
 ## What is this guide
 for people that know their stuff, this is basically using WSL to install RLVM and pasting the game's files there then running it from RLVM on WSL
@@ -21,7 +21,19 @@ well, if you are running vmware figure something out yourself,
 
 run linux on vm or something, you probably know more than me about VMs.
 
-VMware and ow hyperV doesnt mix together very well.
+VMware and HyperV doesnt mix together very well.
+
+Kanon is technically Abandonware at this point, so i am linking an archive.org link to the iso i used to install it and a link to the voicepatch
+
+If kanon gets a remaster on PC I'll remove the link of the iso and voicepatch , for the iso, you can probably find it in archive.org and voicepatch is in vndb.org 's translation section
+
+## Important Links
+
+Kanon Visual Novel Collection : https://archive.org/details/kanon-visual-novel-collection
+
+Kanon Standard Edition Direct Link (From archive.org) : https://archive.org/download/kanon-visual-novel-collection/Kanon%20-%20Standard%20Edition.iso
+
+TakafumiSakagami's Kanon Ultimate Voicepatch (follow his guide posted there for installation process first) : https://plsnohate.wordpress.com/visual-novel-hacking/ultimate-voice-patch-for-kanon/ 
 
 ## Obligatory Life History
 
@@ -148,6 +160,13 @@ Now I ain't no linux super user, but if there is a small issue or mistake in the
 Setting an issue in github might get my attention,but discord message will be much faster (If any issue is widespread i might set an FAQ page here)
 
 If you feel like improving the guide feel free to fork it or make a pull request, just give me a shoutout in the end
+
+## Also, all credits for all programs, voicepatches and links listed here belong to those who made it
+
+I just made the guide to help others enjoy this gem years later, also, try clannad too, made by the same author, available on Steam, so no need for any workarounds
+
+
+# xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 # How to Play Kanon on Windows 11 with Wine and Bottles
 ## Warning, AI "assisted" (i checked it only once for mistakes) stub below here, not 100% accurate, will only recommend people that know their shit try it.
