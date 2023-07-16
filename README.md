@@ -7,7 +7,7 @@ for people that know their stuff, this is basically using WSL to install RLVM an
 
 ## Why am i doing this
 
-becuase no one else has done it and properly(this guide is definately not proper) documented it
+becuase no one else has done it and documented it properly(this guide is definately not proper)
 
 ## Why have you put a guide on Github, it's for programming
 
