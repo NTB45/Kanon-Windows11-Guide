@@ -85,6 +85,16 @@ works perfectly
 
 So
 
+## What is RLVM?
+
+Its a long abandoned project that tried to remake/reverse engineer the real live engine to run on linux and macOS, and suceeded at it.
+Its like those doom source remakes/ports like ZDoom.
+
+It's abandoned but it still works, and through the beauty of debian, i can confirm that it will work till Debain 11 is available for mankind to boot, and thats probably a long time.
+So, using WSL we will reverse the situaltion and run the game on WSL's VM for backward compatablity, Ironic. Still, better than running the original game from wine.
+
+Official website : http://www.rlvm.net/
+
 ### Now's the time for 
 # Steps
 
@@ -160,6 +170,8 @@ Now I ain't no linux super user, but if there is a small issue or mistake in the
 Setting an issue in github might get my attention,but discord message will be much faster (If any issue is widespread i might set an FAQ page here)
 
 If you feel like improving the guide feel free to fork it or make a pull request, just give me a shoutout in the end
+
+I keep improving/updating this guide whenever i feel like i can make an improvement, so if you see any mistakes that might have came up from my careless typing then pls contact. 
 
 ## Also, all credits for all programs, voicepatches and links listed here belong to those who made it
 
