@@ -26,7 +26,7 @@ VMware and HyperV doesnt mix together very well.
 
 Kanon is technically Abandonware at this point, so i am linking an archive.org link to the iso i used to install it and a link to the voicepatch
 
-If kanon gets a remaster on PC I'll remove the link of the iso and voicepatch , for the iso, you can probably find it in archive.org and voicepatch is in vndb.org 's translation section
+If kanon gets a remaster on PC (it did, go get it from there if you don't want to mess around with shit) I'll remove the link of the iso and voicepatch , for the iso, you can probably find it in archive.org and voicepatch is in vndb.org 's translation section
 
 ## Important Links
 
