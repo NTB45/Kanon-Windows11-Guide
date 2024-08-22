@@ -1,6 +1,7 @@
 # Kanon-Windows11-Guide
 
-A guide on how to run kanon on windows 11 with the Ultimate Voicepatch
+A guide on how to run classic kanon on windows 11 with the Ultimate Voicepatch
+edit: wohooo kanon's now on steam baby
 
 ## What is this guide
 for people that know their stuff, this is basically using WSL to install RLVM and pasting the game's files there then running it from RLVM on WSL
