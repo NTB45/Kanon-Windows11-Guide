@@ -30,6 +30,8 @@ If kanon gets a remaster on PC (it did, go get it from there if you don't want t
 
 ## Important Links
 
+Kanon on Steam : https://store.steampowered.com/app/2850310/Kanon
+
 Kanon Visual Novel Collection : https://archive.org/details/kanon-visual-novel-collection
 
 Kanon Standard Edition Direct Link (From archive.org) : https://archive.org/download/kanon-visual-novel-collection/Kanon%20-%20Standard%20Edition.iso
